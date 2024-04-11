@@ -1,4 +1,3 @@
-import React from 'react';
 import Filter from './components/Filter/Filter';
 import ContactList from './components/ContactList/ContactList';
 import FormInput from './components/FormInput/FormInput';

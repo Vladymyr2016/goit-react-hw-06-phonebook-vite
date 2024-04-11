@@ -1,5 +1,4 @@
 import Contact from '../Contact/Contact';
-import React from 'react';
 import { useSelector } from 'react-redux';
 import { selectPhoneBook } from '../../redux/contactsSlice';
 import { selectFilter } from '../../redux/filterSlice';
